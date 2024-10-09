@@ -31,10 +31,14 @@ output:
 [14624201884182170598256097560975609756097560975609756097560975609752087567574633151895735290230556916073830601859370834513858398648291385451615227052125077081083190472774629041080052602212792783055540331931837748901599287513906984047595523029876450038544620845761809858904102301087315775695517666076515320983522214863018531480104442846115231807445784234370862139145501726538297227950034547420120352477569, 1]
 ```
 
+
 ## Installation
-    idk how to do this google how to install python packages from a git repo dude lmfao
-    copiolot says
-    git clone this repo
-    cd into the repo
-    python setup.py install
-    otherwise idfk
+
+```bash
+python -m pip install git+https://github.com/naruzkuraittv/nzk_factorize#egg=nzk_factorize
+```
+or if u use python3
+```bash
+python3 -m pip install git+https://github.com/naruzkuraittv/nzk_factorize#egg=nzk_factorize
+```
+if this doesnt work stackoverflow lied to us
